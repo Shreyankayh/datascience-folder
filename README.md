@@ -1,0 +1,1 @@
+In Milestone-1, the FEMA disaster dataset was loaded and cleaned by handling missing values and formatting date columns. Initial exploratory analysis revealed patterns in disaster declarations across years and states. Preliminary visualizations highlighted increasing disaster frequency and state-level differences, providing a foundation for deeper analysis in later milestones.
